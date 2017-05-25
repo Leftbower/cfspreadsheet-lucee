@@ -1,7 +1,7 @@
 component displayname="extension provider" output="false" {
 
 	instance = {
-		thisAddress = "http://#cgi.SERVER_NAME#:#cgi.SERVER_PORT#/"
+		thisAddress = "#(cgi.SERVER_PORT_SECURE?"https":"http")#://#cgi.SERVER_NAME#:#cgi.SERVER_PORT#/"
 	};
 
 
