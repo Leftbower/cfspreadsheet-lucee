@@ -1,15 +1,15 @@
 # \<cfspreadsheet /> for Lucee 4.x
 
-###Link to cfspreadsheet for Lucee 5.x:
+### Link to cfspreadsheet for Lucee 5.x:
 [https://github.com/Leftbower/cfspreadsheet-lucee-5](https://github.com/Leftbower/cfspreadsheet-lucee-5 "cfspreadsheet-lucee 5.x")
 
 This is a fork of the Team CFAdvance cfspreadsheet-railo extension, modified to work with the Lucee fork of Railo. Please refer to that site for more details.
 
-##Update:
+## Update:
 This extension can now be installed into either the Server or Web context.
 I've also included a hosted URL for convenience.
 
-##Installation: via Lucee Admin GUI
+## Installation: via Lucee Admin GUI
 
 Install via URL (easiest):
 
